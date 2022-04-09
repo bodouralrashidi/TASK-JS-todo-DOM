@@ -1,3 +1,43 @@
+
+
+
+
+h1 {
+  font-weight: 900;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 300;
+}
 .todo-item {
   display: flex;
+
+
+}
+
+.Task{
+  
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  justify-content: space-around;
+
+}
+.button{
+
+ 
+
+
+}
+.container
+{
+  
+  height: 400px;
+  width: 600px;
+  background: #f2f2f2;
+
+  border-radius: 20px;
+  
+  box-shadow: 0 0 20px 8px #d0d0d0;
 }
